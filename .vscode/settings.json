@@ -1,5 +1,10 @@
 {
     "cSpell.words": [
         "Confeitaria"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#20138C",
+        "titleBar.activeBackground": "#2D1BC5",
+        "titleBar.activeForeground": "#FAFAFE"
+    }
 }
